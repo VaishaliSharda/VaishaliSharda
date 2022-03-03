@@ -1,4 +1,3 @@
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **vaishalisharda163@gmail.com**
 
