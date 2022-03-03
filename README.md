@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm Vaishali, and I do content on creating meaningful insight from raw data to achieve business goal .I really enjoy learning languages and BI tools like Python, SQL as well as work with Power BI, Tableau. you can check out my LinkedIn at linkedincom/in/vaishalisharda.
 
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 📫 How to reach me **vaishalisharda163@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
