@@ -1,6 +1,5 @@
-
+[![Vaishali's Github Banner](https://i.postimg.cc/zX7hD0W3/banner.png)
 - 📫 How to reach me **vaishalisharda163@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaishali sharda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishali sharda" height="30" width="40" /></a>
