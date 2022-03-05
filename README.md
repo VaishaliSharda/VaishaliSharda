@@ -1,4 +1,4 @@
-[![Vaishali's Github Banner](https://i.postimg.cc/zX7hD0W3/banner.png)
+[![Vaishali's Github Banner](https://i.postimg.cc/c4tDYBy7/Vaishali-Sharda-1.png)
 - 📫 How to reach me **vaishalisharda163@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
